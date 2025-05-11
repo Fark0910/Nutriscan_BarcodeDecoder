@@ -23,13 +23,6 @@ NutriScan Barcode Decoder is a Python-based backend module designed to receive b
 - **Deployment:** Can be hosted on platforms like Render or Heroku for seamless integration with the ESP32-CAM device.
 
 ---
-# NutriScan Barcode Decoder
+
 
 🔗 **Live API Endpoint:** [https://barcodedecoder.onrender.com](https://barcodedecoder.onrender.com)
-
-## 🔧 Setup & Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Fark0910/Nutriscan_BarcodeDecoder.git
-   cd Nutriscan_BarcodeDecoder
